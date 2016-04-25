@@ -27,7 +27,7 @@ namespace WebAPIBasicAuth.Controllers
             {
                 ListBranchOffice listBranchOffice = new ListBranchOffice();
 
-                listBranchOffice = BranchOfficeDAL.ListBranchOffice("0");
+                listBranchOffice = BranchOfficeDAL.ListBranchOffice();
                 return Request.CreateResponse(HttpStatusCode.OK, listBranchOffice);
             }
             catch (HttpResponseException ex)

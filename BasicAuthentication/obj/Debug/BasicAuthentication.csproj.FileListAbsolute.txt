@@ -29,3 +29,4 @@ c:\users\danilo.vicente\documents\visual studio 2013\Projects\BasicAuthenticatio
 c:\users\danilo.vicente\documents\visual studio 2013\Projects\BasicAuthentication\BasicAuthentication\bin\System.Web.Http.WebHost.xml
 c:\users\danilo.vicente\documents\visual studio 2013\Projects\BasicAuthentication\BasicAuthentication\obj\Debug\WebAPIBasicAuth.dll
 c:\users\danilo.vicente\documents\visual studio 2013\Projects\BasicAuthentication\BasicAuthentication\obj\Debug\WebAPIBasicAuth.pdb
+c:\users\danilo.vicente\documents\visual studio 2013\Projects\BasicAuthentication\BasicAuthentication\obj\Debug\BasicAuthentication.csprojResolveAssemblyReference.cache
