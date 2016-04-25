@@ -109,3 +109,5 @@ else
 }
 </code>
 </pre>  
+
+<p>In own project, we created a Controller called BranchOfficeController that uses the authentication </p>
