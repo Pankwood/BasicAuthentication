@@ -76,7 +76,7 @@ catch (Exception e)
 </code>
 </pre>  
 
-<p>Or using <b>HTTPClient</b></p>
+<p>Or using <b>HTTPClient</b>:</p>
 
 <pre><code>
 
@@ -110,4 +110,4 @@ else
 </code>
 </pre>  
 
-<p>In own project, we created a Controller called BranchOfficeController that uses the authentication </p>
+<p>In own project, we created a Controller called BranchOfficeController that uses the authentication. </p>
