@@ -42,7 +42,7 @@ Basic authentication is performed within the context of a “realm.” The serve
 
 <h2>How To Use</h2>
 
-You can consume Basic Authentication using WebCliente library:
+You can consume Basic Authentication using <b>WebCliente</b> library:
 
 
 <pre><code>
